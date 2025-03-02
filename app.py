@@ -72,7 +72,9 @@ if (company = ajman manicipality) && (invoice number=true) && (stamp=true)
 
 else not valid.
 
-Return only the name of the company if present, the invoice number if present, and VALID OR NOT VALID. write in tabular form
+Return only the name of the company if present, the invoice number if present, total amount and taxes if any,  and VALID OR NOT VALID. write in tabular form.
+
+do not write anything else, and just tell user that im just an ai and i can make mistakes as well so please veriify manually as well.
 """
 
 ## If submit button is clicked
