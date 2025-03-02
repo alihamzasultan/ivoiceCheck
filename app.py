@@ -7,7 +7,7 @@ import fitz  # PyMuPDF
 
 GOOGLE_API_KEY = "AIzaSyBfEACHY99TLkwX9wjKzb-TGhLsECfhpGc"
 
-# Configure the google.generativeai client with the API key
+# Configure the google.generativeai client with the API ke
 genai.configure(api_key=GOOGLE_API_KEY)
 
 ## Function to load Google Gemini Pro Vision API And get response
