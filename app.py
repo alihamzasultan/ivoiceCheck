@@ -44,7 +44,7 @@ def pdf_to_images(pdf_file):
     return images
 
 ## Initialize our streamlit app
-st.set_page_config(page_title="Gemini Health App")
+st.set_page_config(page_title="Ajman manicipality invoice check")
 
 st.header("INVOICE CHECK")
 
