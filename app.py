@@ -46,7 +46,7 @@ def pdf_to_images(pdf_file):
 ## Initialize our streamlit app
 st.set_page_config(page_title="Gemini Health App")
 
-st.header("OCR APP")
+st.header("INVOICE CHECK")
 
 # Add a dropdown to select file type
 file_type = st.selectbox("Select file type:", ["Image", "PDF"])
