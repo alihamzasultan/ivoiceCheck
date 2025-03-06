@@ -59,7 +59,7 @@ ONLY CHECK IF THE INVOICES ARE VALID OR NOT , BY CHECKING THE PRESENCE OF A STAM
 
 THE INVOICE SHOULD BE ONLY FROM 'AJMAN MANICIPALITY'
 
-if (company = ajman manicipality) && (invoice number=true) && (stamp=true)
+if (company = ajman manicipality or darwish engineering ) && (invoice number=true) && (stamp=true)
     then invoice is valid
 
 else not valid.
