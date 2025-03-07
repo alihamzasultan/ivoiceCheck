@@ -72,7 +72,7 @@ if (company = ajman manicipality or darwish engineering or AIMSGROUP ) && (invoi
 
 else not valid.
 
-Return only the name of the company if present,the name of the sender(company name) and reciever if present,  the invoice number if present, total amount with correct or incorrect calculation status and taxes if any,  and VALID OR NOT VALID. write in tabular form.
+Return only the name of the company if present,the name of the sender(company name is sender) and reciever if present,  the invoice number if present, total amount with correct or incorrect calculation status and taxes if any,  and VALID OR NOT VALID. write in tabular form.
 VERIFY THE TOTAL AMOUNT IF IT IS CORRECTLY CALCULATED, AND RETURN CORRECT, IF IT CORRECTLY CALCULATED ALONG WITH THE AMOUNT. 
 
 do not write anything else provide only the table!.
